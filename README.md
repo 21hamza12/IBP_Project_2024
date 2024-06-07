@@ -36,9 +36,3 @@ To get the project up and running on your local machine, follow these steps:
 ## Project Managers
 
 * Sid Ahmed Amar Abdi , ID: 2210213559
-  <tr>
-    <td><img src="https://github.com/MohamedAbdellahi98/students-management/assets/92870461/113e5153-5e1b-4dba-adaa-7cf55398ba93" width="250"></td>
-    <td><img src="https://github.com/MohamedAbdellahi98/students-management/assets/92870461/6726c599-5850-44cb-a59b-0e8a9c74abda" width="250"></td>
-  </tr>
-</table>
-
